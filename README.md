@@ -1,2 +1,0 @@
-# MWP
-MetaWorld smart contract
